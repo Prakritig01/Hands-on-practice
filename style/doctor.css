@@ -1,0 +1,30 @@
+form{
+    margin: 10px auto;
+}
+legend{
+    border: 1px solid black;
+    background-color: grey;
+    padding: 8px;
+    color: aliceblue;
+}
+h1{
+    color: gray;
+    font-size: 20px;
+}
+fieldset{
+    background-color:rgb(237, 233, 233);
+    width: 280px;
+    margin: auto;
+}
+input,select{
+    width: 250px;
+    height: 25px;
+    position: relative;
+    left: 10px;
+    
+}
+textarea{
+    position: relative;
+    left: 10px;
+    height: 50px;
+}
